@@ -1,4 +1,6 @@
-![grab-landing-page](https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif)
+<p align="center">
+  <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="GIF Başlığı">
+</p>
 <h1 align="center">Hi 👋, I'm Esma ÖZEL</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
