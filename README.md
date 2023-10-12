@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Esma ÖZEL</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [Wellbees](wellbees.com.tr)
+- 🔭 I’m currently working on [Wellbees](http://wellbees.com.tr)
 
 - 🌱 I’m currently learning **EF Core, .NET, SQL, C#, MongoDB, Redis, HTML, CSS, Javascript, Angular, React**
 
